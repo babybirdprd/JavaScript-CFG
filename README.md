@@ -1,4 +1,4 @@
-# JavaScript CFG
+# JavaScript CFG - codegraphs
 
 A tool that generates Control Flow Graphs (CFGs) of JavaScript and TypeScript code. It uses TypeScript as a parser to handle both languages and produce CFGs. The project was developed as my undergraduate graduation project.
 
